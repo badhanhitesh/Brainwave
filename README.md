@@ -2,7 +2,7 @@
 
 Welcome to **Brainwave** - a sophisticated and interactive online quiz platform that brings a fresh and exciting way to challenge your knowledge! Whether you're a trivia aficionado or just looking for some fun, **Brainwave** offers a diverse array of quizzes across various topics to keep you entertained and engaged. 🎉
 
-## 🌟 What Makes Brainwave Stand Out?
+## 🧑‍💻 What Makes Brainwave Stand Out?
 
 - **Vast Quiz Collection**: From general knowledge to specialized topics, explore quizzes that cater to all interests and expertise levels. 📚🔍
 - **Sleek and Intuitive Design**: Developed with Django and elegantly styled using Bootstrap4, our platform ensures a smooth and visually appealing experience. 🖥️✨

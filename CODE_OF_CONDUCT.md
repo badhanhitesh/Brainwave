@@ -32,6 +32,6 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting me at contact@badhanhitesh.com. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. I am obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting me at badhanhitesh14@gmail.com All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. I am obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
 I may face temporary or permanent repercussions as determined by the project's leadership for not following or enforcing the Code of Conduct in good faith.

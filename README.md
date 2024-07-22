@@ -1,6 +1,6 @@
 # 🎮🕹️👾 Brainwave
 
-Welcome to **Brainwave** - a sophisticated and interactive online quiz platform that brings a fresh and exciting way to challenge your knowledge! Whether you're a trivia aficionado or just looking for some fun, **Brainwave** offers a diverse array of quizzes across various topics to keep you entertained and engaged. 🎉
+Welcome to **Brainwave** - Interactive online quiz platform that brings a fresh and exciting way to challenge your knowledge! Whether you're a trivia aficionado or just looking for some fun, **Brainwave** offers a diverse array of quizzes across various topics to keep you entertained and engaged. 🎉
 
 ## 🧑‍💻 What Makes Brainwave Stand Out?
 

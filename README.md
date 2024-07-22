@@ -1,6 +1,6 @@
 # 🎮🕹️👾 Brainwave
 
-Welcome to **Brainwave**—an engaging online quiz platform designed to challenge your knowledge and provide hours of fun! 🎉
+Welcome to **Brainwave** - an engaging online quiz platform designed to challenge your knowledge and provide hours of fun! 🎉
 
 ## 🎯 Features
 

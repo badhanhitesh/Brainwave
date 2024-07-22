@@ -15,7 +15,7 @@ Experience the magic of **Brainwave** here: [Brainwave Live](http://letsquiz.pyt
 ## 🛠 Technologies Used
 
 - **Backend**: Django
-- **Frontend**: Bootstrap4
+- **Frontend**: HTML, CSS, Bootstrap4
 - **Deployment**: PythonAnywhere
 
 ## 🚀 Getting Started
